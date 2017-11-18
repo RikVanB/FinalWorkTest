@@ -1,4 +1,4 @@
-[
+    [
     {
         "path": "/tasks/*",
         "data": true
